@@ -1,2 +1,2 @@
 # amindottech.github.io
-[Fabric Integration Architecture](https://github.com/modamin/amindottech.github.io/blob/main/fabric-integration-architecture)
+[Fabric Integration Architecture](https://github.com/modamin/blog/blob/main/fabric-integration-architecture.md)
